@@ -51,7 +51,7 @@ let linksData = [
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.prizen.cn/",
+    link: "https://pan.lniosy.com/",
   },
   {
     icon: CompactDisc,
@@ -70,8 +70,8 @@ let linksData = [
   },
   {
     icon: Fire,
-    name: "今日热榜",
-    link: "https://hot.lniosy.com/",
+    name: "ChatGPT",
+    link: "https://chat.prizen.cn/",
   },
 ];
 
