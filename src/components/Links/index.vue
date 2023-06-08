@@ -51,7 +51,7 @@ let linksData = [
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://tro.sqlmy.cc/",
+    link: "https://pan.prizen.cn/",
   },
   {
     icon: CompactDisc,
